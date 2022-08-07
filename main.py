@@ -27,5 +27,5 @@ if (join_love < 10) or (join_love > 90):
 if (join_love >= 40) and (join_love <= 50):
   print(f"Your score is {join_love}, you are alright together.")
 else:
-  print(f"Your score is {join_love}.")
+  print(f"Your score is {join_love}, you are bless together.")
 
